@@ -82,7 +82,7 @@ pocketcasts_subscribe = ""
 mailchimp_subscribe = ""
 # rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Pen and paper, meeples and dice. It's DevOps on your tabletop."
-media_prefix = "
+media_prefix = ""
 disqusShortname = ""
   [params.feed]
     copyright = "Copyright 2020 Aaron Aldrich" #do not use markdown in this field; it is used in the feed
